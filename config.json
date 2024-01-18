@@ -1,0 +1,21 @@
+{
+    "params":{
+        "local_server" : "True",
+        "local_uri" : "mysql://root:root@localhost/ProgrammersPlayground",
+        "prod_uri" : "mysql://root:root@localhost/ProgrammersPlayground",
+        "fb_url": "https://meta.com/TheProgrammersPlayground",
+        "tw_url": "https://twitter.com/TheProgrammersPlayground",
+        "gh_url": "https://github.com/Akshayredekar07",
+        "blog_name" : "Programmer's Playground",
+        "tag_line" : "A Blog Theme by The Programmer's Playground",
+        "user_gmail" : "akshayredekar4545@gmail.com",
+        "user_passward" : "iumpgwlvkswsfizd",
+        "no_of_posts" : 2,
+        "login_image": "login.svg",
+        "admin_user" : "akshay",
+        "admin_passward" : "subscribe",
+        "upload_location" : "C:\\Users\\Akshay\\Documents\\Lens\\7.Flask & Django\\FlaskDevlopment\\static"
+        
+    }
+
+}
